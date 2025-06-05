@@ -1,0 +1,3 @@
+FROM Laravel:12.10.2
+WORKDIR /resources
+COPY Package*.json ./
